@@ -20,8 +20,8 @@
 ## 박용현
   - vlsthf154@naver.com
   - 2020621038
-  -GitHub :  vlsthf154
--juyeonp-458@naver.com
+  - GitHub :  vlsthf154
+
 
 
 ## 새치기

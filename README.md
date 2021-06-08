@@ -7,11 +7,12 @@
 | 박주연 | 2020315020 | juyeonp-458 | juyeonp-458@naver.com |
 | 박종민 | 2017210022 | wogalaxyow | parkmb99@naver.com |
 
-<
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
-=======
-## 박주연
--juyeonp-458@naver.com
 
 ## 새치기
+
+## 박주연
+- juyeonp-458@naver.com
+- 2020123456
+- GitHub: juyeonp-458

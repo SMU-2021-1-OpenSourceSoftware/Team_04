@@ -7,8 +7,10 @@
 | 박주연 | 2020315020 | juyeonp-458 | juyeonp-458@naver.com |
 | 박종민 | 2017210022 | wogalaxyow | parkmb99@naver.com |
 
-
+<<<<<<< HEAD
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
 
 ## 박용현
+ - vlsthf154@naver.com
+
